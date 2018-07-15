@@ -98,3 +98,6 @@ theme: cactus
 #sitemap
 sitemap:
   path: sitemap.xml
+
+license: Creative Commons NO-BY
+license_url: '#'
