@@ -1,6 +1,8 @@
 ---
 title: Liste à cocher
 date: 2018-07-14 11:59:52
+banner: josiah-weiss-435592-unsplash.jpg
+description: Une liste de choses à ne pas oublier pour profiter de tes Jeux au maximum!
 tags:
 - athlètes
 - préparation
@@ -24,7 +26,7 @@ _<sup>\*</sup>Parce que [l'esprit sportif, ça compte!]() (Et parce qu'on doit r
 
 ## Délégation et cérémonies officielles
 
-* [ ] Vêtements officiels des Jeux (**obligatoire**) : [chandail à manches longues]() du comité organisateur, shorts noirs de la région et casquette orange
+* [ ] Vêtements officiels des Jeux (**obligatoire**) : [chandail à manches longues](https://www.facebook.com/jdq.lau/posts/1379945548774482) du comité organisateur, shorts noirs de la région et casquette orange
 * [ ] Ton [guide](/assets/guide-des-jeux-thetford.pdf) des Jeux du Québec
 * [ ] Ta carte d'assurance-maladie (carte-soleil)
 
