@@ -46,4 +46,4 @@ _<sup>\*</sup>De taille ~~queen~~_ ❌ _~~king~~_ ❌ _individuelle_ ✅. _(On �
 * [ ] Maillot de bain 💦
 * [ ] Ta bonne humeure 😄
 
-À ton arrivée, tu recevras aussi un **sac à dos** des Jeux, un **sac à cordon** (pour tes effets de douche) et une **boîte à lunch** pour ton dîner. Ce sera important de les étiqueter adéquatement! _(Car il y en aura environ 3000 en circulation.)_ 
+À ton arrivée, tu recevras aussi un **sac à dos** des Jeux, un **sac à cordon** (pour tes effets de douche) et une **boîte à lunch** pour ton dîner. Ce sera important de les étiqueter🏷 adéquatement! _(Car il y en aura environ 3000 en circulation.)_ 
