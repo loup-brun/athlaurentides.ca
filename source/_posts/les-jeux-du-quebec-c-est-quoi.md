@@ -75,4 +75,4 @@ Les Jeux du Québec, c’est bien plus qu’une simple compétition : **c’est 
 
 Dans les temps morts, c’est aussi l’occasion de trouver des moments de détente! _(Parce que, on va se le dire, donner son 110% ça demande pas mal d’énergie.)_ Avec des aires de repos à ta disposition, tu pourras te trouver du sommeil d'appoint sans problème pour te recharger comme il faut. 🔋
 
-Enfin, les 🎆cérémonies d’ouverture et de fermeture sont juste 💥💥💥 (selon ton bloc, tu auras l’occasion d’assister soit à l'une, soit à l'autre).
+De plus, les 🎆cérémonies d’ouverture et de fermeture sont juste 💥💥💥 (selon ton bloc, tu auras l’occasion d’assister soit à l'une, soit à l'autre).
