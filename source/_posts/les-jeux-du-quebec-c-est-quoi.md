@@ -1,6 +1,6 @@
 ---
 title: Les Jeux du Québec, c'est quoi?
-date: 2018-07-18 13:40:20
+date: 2018-07-21
 banner: jeux-du-quebec-drapeau-laurentides.jpg
 #published: false
 tags:
@@ -17,8 +17,8 @@ Les Jeux en quelques [stats](https://thetford2018.jeuxduquebec.com/fichiersUploa
 
 - 19 régions
 - 18 disciplines sportives
-- 3500 athlètes (3700+ à Thetford)
-- 1000 entraîneurs-accompagnateurs
+- 3700+ athlètes (dont 440 en athlétisme)
+- 1000+ entraîneurs-accompagnateurs
 - 3500+ bénévoles
 - 2 blocs de compétition en 8 jours
 - [la même chanson](http://www.jeuxduquebec.com/Chanson_des_Jeux_du_Quebec-fr-39.php) depuis 1980
