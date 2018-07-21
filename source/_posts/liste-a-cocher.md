@@ -22,7 +22,9 @@ Une liste de choses à ne pas oublier pour profiter de tes Jeux au maximum!
 * [ ] Collations
 * [ ] Ton esprit sportif<sup>\*</sup>
 
-_<sup>\*</sup>Parce que [l'esprit sportif, ça compte!](https://www.facebook.com/jdq.lau/photos/a.146499918785724.19260.142827422486307/1363508697084834/) (Et parce qu'on doit rapporter la bannière.)_
+_<sup>\*</sup>Parce que [l'esprit sportif, ça compte!](https://www.facebook.com/jdq.lau/photos/a.146499918785724.19260.142827422486307/1363508697084834/) (Et parce qu'on doit rapporter la bannière.)
+
+_Dois-je apporter mon dossard FQA?_ **Non**. Sur place, tu recevras ~~un~~ deux dossards spécialement pour les Jeux, à porter l’un à l’avant, l’autre à l’arrière.
 
 ## Délégation et cérémonies officielles
 
