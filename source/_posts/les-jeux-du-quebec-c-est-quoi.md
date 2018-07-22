@@ -21,29 +21,29 @@ Les Jeux en quelques [stats](https://thetford2018.jeuxduquebec.com/fichiersUploa
 - 1000+ entraîneurs-accompagnateurs
 - 3500+ bénévoles
 - 2 blocs de compétition en 8 jours
-- [la même chanson](http://www.jeuxduquebec.com/Chanson_des_Jeux_du_Quebec-fr-39.php) depuis 1980
+- [la même chanson](http://www.jeuxduquebec.com/Chanson_des_Jeux_du_Quebec-fr-39.php) depuis 1980 (et [une autre](https://thetford2018.jeuxduquebec.com/fr/53e-finale-des-jdq/chansons-des-jeux/) spécialement pour Thetford 2018)
 
 ## Un sport d'équipe
 
 Si tu pensais que l’athlétisme, c’était juste un sport individuel, eh bien détrompe-toi.
 
-![L'équipe des Laurentides en athlétisme aux Jeux du Québec de Montreal, 2016](./equipe-laurentides-athletisme-mtl-2016.jpg)
+![L'équipe des Laurentides en athlétisme aux Jeux du Québec de Montreal, 2016](equipe-laurentides-athletisme-mtl-2016.jpg)
 
 > Aux Jeux, l’important c'est de toujours donner son 110%, autant sur le terrain que dans les gradins.
 
 Le sentiment d’appartenir à une équipe qui te soutient dans chacune de tes foulées sur la piste et chacun de tes essais sur la pelouse est incroyablement exaltant. **Aux Jeux, l’important c'est de toujours donner son 110%, autant sur le terrain que dans les gradins** (_faites du bruit!_📣📣📣).
 
-Une chose est sûre, c'est que les encouragements et l'esprit d’équipe seront au rendez-vous.
+Une chose est sûre, c'est que les **encouragements** et **l'esprit d’équipe** seront au rendez-vous.
 
 Bref, les Jeux, c'est une ambiance de 🔥.
 
-## Une véritable expérience championnat
+## Une véritable expérience de championnat
 
 La compétition aux Jeux du Québec, c'est vraiment _su'a coche_ 👌. Entre les cortèges d'officiels qui défilent à chaque entrée/sortie du stade et les cérémonies protocolaires, c’est possible que tu sentes ta colonne vertébrale se redresser.
 
 ### Ton échauffement
 
-Tu fais ton échauffement habituel dans la zone désignée. Tu n’as pas (encore) accès à la piste ou à la zone de compétition.
+Tu fais ton échauffement habituel dans la zone désignée. Tu n’as pas (encore) accès à la piste ou à l'aire de compétition.
 
 ### Ta chambre d'appel
 
@@ -67,7 +67,7 @@ Rappelle-toi que c’est _ton_ épreuve, _ton_ moment, _ton_ expérience. Arrêt
 
 ## Bien plus qu’une compétition
 
-![L'équipe des Laurentides en athlétisme aux Jeux du Québec de Montreal, 2016](./jeux-du-quebec-drapeau-laurentides.jpg)
+![L'équipe des Laurentides en athlétisme aux Jeux du Québec de Montreal, 2016](jeux-du-quebec-drapeau-laurentides.jpg)
 
 Les Jeux du Québec, c’est bien plus qu’une simple compétition : **c’est une grande fête**. Au-delà de la programmation sportive, c’est l’occasion de faire le tour du **village des athlètes**, de **rencontrer des jeunes venant des ~~quatre~~ dix-neuf coins du Québec** _(on ne le dira jamais assez, le Québec c’est grand en mautadine)_, et de participer à **une pléthore d’activités** (jeux, spectacles, danse et soirées thématiques).
 
@@ -76,3 +76,5 @@ Les Jeux du Québec, c’est bien plus qu’une simple compétition : **c’est 
 Dans les temps morts, c’est aussi l’occasion de trouver des moments de détente! _(Parce que, on va se le dire, donner son 110% ça demande pas mal d’énergie.)_ Avec des aires de repos à ta disposition, tu pourras te trouver du sommeil d'appoint sans problème pour te recharger comme il faut. 🔋
 
 De plus, les 🎆cérémonies d’ouverture et de fermeture sont juste 💥💥💥 (selon ton bloc, tu auras l’occasion d’assister soit à l'une, soit à l'autre).
+
+Enfin, sois fier(ère) de représenter ta région aux Jeux. <span class="emoji">❤️</span>
