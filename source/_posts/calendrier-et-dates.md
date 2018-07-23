@@ -19,3 +19,40 @@ Voici les dates importantes à retenir en vue de la [53<sup>e</sup> finale provi
 | 2018-07-27    | Départ pour les Jeux (bloc #1)    | Mirabel          |
 | 2018-07-28–31 | Compétitions, bloc #1             | Thetford         |
 | 2018-07-31    | Retour des Jeux (bloc #1)         | Mirabel          |
+
+## Rencontre pré-départ
+
+La rencontre pré-départ aura lieu au **stade Richard-Garneau**, adjacent à la polyvalente Sainte-Thérèse :
+
+```
+401 Boulevard du Domaine  
+Sainte-Thérèse, QC J7E 4S4
+```
+
+Dernières infos, photo d'équipe et vêtements officiels sont à l'horaire de la soirée!
+
+## Le départ
+
+Étant donné que l'athlétisme est placé dans le premier bloc de compétition, l'équipe d'athlétisme quittera pour Thetford le **vendredi 27 juillet à 12 h 00**. Vous êtes priés d'arriver à **11 h 00** pour permettre à l'autobus de partir à l'heure!
+
+Le lieu de rassemblement est le **Complexe Val-D'Espoir** à Mirabel :
+
+```
+17700 Rue Du Val-d'Espoir  
+Mirabel QC J7J 1V7
+```
+
+## L'hébergement
+
+L'hébergement pour la région des Laurentides se situe à l'[**École du Tournesol**](http://www.csappalaches.qc.ca/ecole-du-tournesol/) _(à noter que l'hébergement n'est accessible qu'aux athlètes accrédités et non aux parents ou toute autre personne)_ :
+
+```
+285 rue Houle  
+Thetford Mines QC G6G 5W2
+```
+
+## Le retour
+
+Le retour aura lieu au **même lieu qu'à l'aller**, c'est-à-dire au **Complexe Val-D'Espoir** à Mirabel.
+
+L'heure du retour est estimée à **20h20 (approx.)**. Nous mettrons à jour périodiquement nos divers [canaux](http://facebook.com/athlaurentides/) [d'information](http://twitter.com/athlaurentides) pour vous tenir au courant de l'heure exacte!<span class="emoji">⏱</span>
