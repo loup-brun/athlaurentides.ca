@@ -43,7 +43,7 @@ La compétition aux Jeux du Québec, c'est vraiment _su'a coche_ 👌. Entre les
 
 ### Ton échauffement
 
-Tu fais ton échauffement habituel dans la zone désignée. Tu n’as pas (encore) accès à la piste ou à l'aire de compétition.
+Tu fais ton échauffement habituel dans la zone désignée. Tu n’as pas (encore) accès à la piste ni à l'aire de compétition.
 
 ### Ta chambre d'appel
 

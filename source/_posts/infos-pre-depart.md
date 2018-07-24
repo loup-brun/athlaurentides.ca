@@ -1,7 +1,8 @@
 ---
 title: Infos pré-depart
 date: 2018-07-22 21:28:10
-published: false
+description: Tout ce que tu dois savoir avant de partir aux Jeux!
+banner: sac-a-dos.jpg
 tags:
 - athlètes
 - préparation
@@ -9,183 +10,111 @@ tags:
 - JDQ2018
 ---
 
-[TOC]
+Tout ce que tu dois savoir avant de partir aux Jeux!
 
-## Présentation membres de la mission
+![Sac à dos](sac-a-dos.jpg)
 
-2 missionnaires pour l'athlétisme (car athlètes nombreux, horaires variés).
+## Infos générales
 
-## Rencontre pré-départ
+* [**Liste à cocher**](/liste-a-cocher) : pour ne rien oublier!
+* [**Guide des Jeux**](/guide-des-jeux-thetford) : consulte-le en tout temps, il te sera fort utile!
+* [**Carte de Thetford**](carte-sites-thetford.pdf) : pour mieux te retrouver!
+* [**Horaire (révisé)**](http://www.athletisme-quebec.ca/jeux-du-quebec) : disponible sur le [site web](http://www.athletisme-quebec.ca/) de la Fédération québécoise d'athlétisme.
+* [**Inscriptions**](https://avs-sport.com/display_inscriptions.php?comp=314&user=None&key=) : tu peux déjà voir les athlètes inscrit(e)s à ton épreuve!
 
-14 juilllet dès 9 h.
+## Le départ
 
-Ambassadeur de l'esprit sportif : Jean-Luc Brassard
+[La date de départ](/calendrier-et-dates) est fixée au **vendredi 27 juillet à 12 h 00**. Merci d'arriver **60 minutes à l'avance** (_i.e._ dès 11 h 00) pour permettre à l'autobus de partir à l'heure!
 
-Arriver le plus tôt possible pour passer au travers des «stations» de vêtements (entraîneur ramasse, puis remise aux athlètes).
+Les **perches** iront dans l'**autobus** (car n'entrent pas dans les camions-cube). Les autres pièces d'équipement (javelots, poids, etc.) iront dans les camions-cube.
 
-Remise du montant 145 $ (avec photo).
+## Le retour
 
-Idée : annoncer aux partenaires/élus qui remettent les montants que la remise serait faite à un entraînement.
+[Le retour](/calendrier-et-dates) est prévu le 31 juillet vers **20 h 20 (approx.)**, avec un départ de Thetford à 16 h.
 
-Bouffe sur place (athlètes et entraîneurs, mais pas pour parents). 20 minutes pour la collation.
+## Membres de la mission
 
-Mini cérémonie d'ouverture, entrée en valeur. Se placer dans la cafétéria.
+Le chef de la mission est **Dang Thanh Bui**.
 
-Informations pour les parents.
+L'équipe d'[entraîneurs-accompagnateurs](/equipe) pour l'athlétisme est composée de :
 
-Présence d'une athlète d'honneur.
+* **Louis-Olivier Brassard**
+* **Samuel Grondin-Bernier**
+* **Camille Riopel**
+* **Nicolas Riopel**
+* **Simon Prince-Desjardins**
 
-La cérémonie intègrent les espoirs régionaux.
+...en plus deux missionnaires :
 
-Il faut brandir la pancarte du sport pour que les athlètes s'y réunissent.
+* **Carlos Lopez**
+* **Erika Paré**
 
-## Concours esprit sportif
+...et enfin de vous, les 29 athlètes!
 
-Subvention pour l'éthique en sport. Ambassadeur : **Jean-Luc Brassard**
+## Médias et communications
 
-Trois étapes :
+Responsable régional : **Anh Dien Huynh**
 
-* Présence de kiosques sur les sites de compétition
-* Signer l'avis pour l'éthique (COCH)
-* Concours comme tel. Inscrire le club (les athlètes doivent inscrire **leur club**). Tirage fait après les Jeux, 3 montants de 125 $ pour acheter de l'équipement sportif.
+Les communications + faits saillants de la région sur seront diffusés sur [Facebook](https://www.facebook.com/jdq.lau) (et les exploits de l'athlétisme sur notre [page dédiée](https://www.facebook.com/athlaurentides)) ainsi que sur la plateforme [Instagram](https://instagram.com/jdqlaurentides) (sans oublier bien sûr le [compte](https://instagram.com/athlaurentides) consacré à l'athlétisme).
 
-Sensibiliser les parents à l'esprit sportif.
+![Téléphone médias sociaux](en-ligne.jpg)
 
-Projet pilote avec des clubs, serait étendu aux autres clubs/sports.
+Il n'y aura pas de distribution de journal papier.
 
-## Vérification d'antécédents judiciaires
+Les [résultats](http://resultats.jeuxduquebec.com/fr/compilation/sport.html?sport=224) seront également relayés en direct via les réseaux sociaux.
 
-## Inscription ProJeux
-
-Système ouvet jusqu'au 9 juillet. Les athlètes peuvent s'inscrire jusqu'au 10 juillet.
-
-## Candidature porte-drapeau
-
-En fonction de la performance de l'athlète.
-
-## Communications/médias
-
-Responsable : **Anh Dien Huynh**
-
-Communications surtout sur [Facebook](https://www.facebook.com/jdq.lau). Pas de distribution papier.
-
-Cibler athlètes en particulier. Se préparer pour l'arrivée des agents de communication (qu'est-ce qu'il faut cibler?) Photos de chaque sport.
-
-Utilisation de la plateforme Instagram.
-
-Important : **transmettre les résultats**. Apprendre le sport au **missionnaire** pour que celui-ci soit aussi en mesure de faire la ligne de transmission, faire sortir l'information plus rapidement.
-
-Les **parents** peuvent aussi voir les résultats sur Facebook!
-
-> On vise le direct.
-
-Utilisation du Facebook Live!
-
-**Avertir les agents de communication d'avance** pour les finales ou moments clés (ex. finale, podium).
-
-Le site web des Laurentides sera mis à jour pour diffuser des informations de dernière minute (ex. déplacement de site).
-
-## Procédures et règlements de la région des Laurentides
-
-Lieu : école primaire, **École du Tournesol**, partagée avec la région du Saguenay-Lac-St-Jean. Proche de tout.
-
-Règle de deux : séparation des sexes dans les dortoirs. Entraîneur-chef du même sexe.
-
-Couvre-feu : **22 heures**. Départ du village des athlètes à 21 heures max. Il y aura des gardiens de sécurité (Garda) sur place. Si un jeune arrive à l'hébergement après l'heure du couvre-feu, l'agent de sécurité confirsque la carte d'accréditation. Il faut ensuite que Dang fasse la rencontre avec l'athlète et l'entraîneur. :(
-
-Apporter literie (matelas, oreiller). Ne pas apporter de matelas de taille démesurée.
-
-### Transport
-
-3 heures de transport. Pas d'arrêt. Autocar de luxe (air climatisé, écrans de télévision).
-
-Le transport est organisé par Sports Québec (donc pas sous notre responsabilité). Horaire serré.
-
-AUCUN transport par les parents.
-
-### Hébergement
-
-Il faut une carte d'accréditation pour entrer dans l'hébergement et les dortoirs. **Pas de parents.**
-
-### Alimentation
-
-À l'École du Tournesol. Tous les repas sont offerts par l'organisation (mais nourriture extérieure à vos frais).
-
-### Respect des règlements
-
-Le non respect des règlements entraîne automatiquement le renvoi de l'athlète à la maison (autobus à ses frais), après trois avertissements.
+Le [site web des Laurentides](https://loisirslaurentides.com) sera mis à jour pour diffuser des <span class="emoji">⏱</span>informations de dernière minute (ex. déplacement de site).
 
 ## Carte d'accréditation
 
 **TOUJOURS porter la carte sur soi** (nécessaire pour manger, dormir, accès au site de compétition).
 
+## Hébergement
+
+La carte d'accréditation est **obligatoire** pour accéder au site d'hébergement et les dortoirs. **Pas de parents** ni personne d'autre qui ne soit dûment accréditée.
+
+**N'apporte pas de nourriture dans les dortoirs.** Sinon, ça crée une **infestation de fourmis**. <span class="emoji">🐜🐜🐜</span> Pour manger tes collations, descends simplement au rez-de-chaussée. <span class="emoji">😉</span>
+
 ## Alimentation
-
-Nécessaire d'informer Sports Québec des **allergies**. De la nourriture hypo-allergène sera offerte exclusivement aux athlètes présentant une allergie (vérifiée par Sports Québec).
-
-Le fait de ne pas aimer un certain aliment ne constitue pas une allergie.
-
-Menu très diversifié.
-
-Les cafétérias sont fermées pendant l'heure du midi. Tous les dîners sont donnés dans des **boîtes à lunch**. Les athlètes gèrent eux-mêmes leur heure de dîner (flexible! surtout pour des épreuves individuelles...).
-
-**Les athlètes choisissent eux-mêmes leur portion!** Éviter le gaspillage alimentaire. Suivre le slogan. Privilège à honorer! Sinon ce ne sera pas renouvelé les années ultérieures.
 
 > Tu prends ce que tu manges
 >
 > Tu manges ce que tu prends.
 
-**Les repas non consommés sont facturés à la région.** 
+**Tu choisis toi-même ta portion!** _(Youpii!)_ 😄 😄 😄  Mais tu te rappelles du slogan. C'est un privilège à honorer! Sinon ce ne sera pas renouvelé les années ultérieures. <span class="emoji">😥</span>
 
-Respecter l'horaire. Les athlètes qui compétitionnent tôt vont manger tôt; les athlètes qui compétitionnent tard mangent plus tard.
+De plus, **les repas non consommés sont facturés à la région**. Bref, tu manges ce que tu prends!
+
+![Bol de céréales](cereales.jpg)
+
+Les déjeuners et soupers se feront au **Cégep de Thetford**.
+
+Les cafétérias sont fermées pendant l'heure du midi. Tu assembles toi-même ton dîner chaque matin dans la **boîte à lunch** qui te sera remise à ton arrivée aux Jeux. Tu gères toi-même ton heure de dîner! (Logistique flexible et pratique, surtout pour des épreuves individuelles...).
+
+ De la nourriture hypo-allergène sera offerte exclusivement aux athlètes présentant une **allergie alimentaire** (vérifiée par Sports Québec lors de l'inscription).
 
 ## Centrale de santé
 
-Service d'infirmerie disponible. Le missionnaire a le mandat de partir avec l'athlète et informera les entraîneurs de la suite.
-
-## Hébergement
-
-Ne pas apporter de nourriture dans les dortoirs (cas de fourmis), sinon infection (généralisée, car aires ouvertes). Ne pas cacher des bonbons/craquelins. Pour manger des collations, descendre au rez-de-chaussée.
+Un service d'infirmerie est disponible dans la centrale des Jeux, au Cégep de Thetford. Le missionnaire a le mandat de partir avec l'athlète et informera les entraîneurs de la suite.
 
 ## Douches
 
-Prendre les douches à la fin de la compétition. Les athlètes prennent leur douche sur le site de la compétition; ils doivent donc prendre tout le nécessaire.
+Tu dois prendre ta douche sur le site de compétition; tu dois donc apporter tout le nécessaire en partant de l'hébergement le matin.
 
-Les effets pour la douche seront mis dans un petit sac à cordons fourni par l'organisation. (**TODO**: étiqueter sacs; apporter ruban adhésif, marqueurs, étiquettes)
+Tu pourras mettre tes effets mouillés dans ton sac à cordons de la région!
 
-À l'hébergement (notre école), 3 douches fermées femmes et 3 douches fermées hommes, **de 22 heures à 6 heures**. Éviter circulation des athlètes après le couvre-feu.
+![Serviettes](serviettes.jpg)
 
-## Horaire de transport
+## Cérémonies
 
-### Bloc 1 : vendredi 27 juillet au mardi 31 juillet 2018
-
-* Départ à 12 h à Mirabel.
-* Retour le 31 juillet, départ à 16 h, arrivée à 21 h 30.
-
-Être sur place au moins 60 minutes à l'avance.
-
-Les jeunes partent et reviennent avec l'autobus.
-
-Prendre de l'avance dans l'étiquetage de l'équipement. Un camion-cube de transport sera fourni par Sports Québec.
-
-Les **perches** iront dans l'**autobus** (car n'entrent pas dans les camions-cube). Les autres pièces d'équipement (javelots, poids, etc.) iront dans les camions-cube.
-
-## Réunions disciplinaires
-
-Un entraîneur par sport.
-
-Athlétisme : 27 juillet de 18 h à 19 h 30 au Cégep de Thetford, local 4049
-
-## Soirée des entraîneurs-accompagnateurs
-
-30 juillet. Souper régulier avec les athlètes, puis réception par le comité organisateur.
-
-## Cérémonies d'ouverture et de fermeture
-
-Complexe extérieur Desjardins. En cas de pluie, transféré dans l'aréna adjacent.
-
-**Les athlètes doivent obligatoirement porter le chandail officiel du comité organisateur** à toutes les cérémonies, ainsi que la casquette. Le t-shirt de podium doit être potré absolument lors des remises de médaille.
+**Les athlètes doivent obligatoirement porter le chandail officiel du comité organisateur** à toutes les cérémonies, ainsi que la casquette orange des Laurentides.
 
 ## Objectif de la région
 
-Objectif des Laurentides : **top 6**.
+Objectif de classement des Laurentides : **top 6**.
+
+Ce n'est qu'avec des vagues déferlantes d'encouragements et un esprit d'équipe débordant de bonne humeur que nous y parviendrons!
+
+![Piste d'athlétisme 6 corridors](6.jpg)
+
+#GoLAU <span class="emoji">❤️</span>
