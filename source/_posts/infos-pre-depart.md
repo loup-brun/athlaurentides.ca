@@ -17,7 +17,8 @@ Tout ce que tu dois savoir avant de partir aux Jeux!
 ## Infos générales
 
 * [**Liste à cocher**](/liste-a-cocher) : pour ne rien oublier!
-* [**Guide des Jeux**](/guide-des-jeux-thetford) : consulte-le en tout temps, il te sera fort utile!
+* [**Guide des Jeux**](/guide-des-jeux-thetford) : consulte-le avant de partir, il te sera fort utile!
+* [**Guide du participant**](/guide-des-jeux-thetford) : ton guide du participant, à garder précieusement tout au long des Jeux!
 * [**Carte de Thetford**](carte-sites-thetford.pdf) : pour mieux te retrouver!
 * [**Horaire (révisé)**](http://www.athletisme-quebec.ca/jeux-du-quebec) : disponible sur le [site web](http://www.athletisme-quebec.ca/) de la Fédération québécoise d'athlétisme.
 * [**Inscriptions**](https://avs-sport.com/display_inscriptions.php?comp=314&user=None&key=) : tu peux déjà voir les athlètes inscrit(e)s à ton épreuve!
