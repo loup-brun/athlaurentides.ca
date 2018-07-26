@@ -104,8 +104,18 @@ license: Creative Commons NO-BY
 license_url: 'https://creativecommons.org/licenses/by/4.0/'
 
 # Hexo-filter-cleanup
-hfc_useref:
+hfc_favicons:
+  enable: false
+hfc_css:
+  enable: false
+  exclude: 
+    - '**/*.min.css'
+hfc_js:
   enable: true
-
+  mangle: false
+  exclude: 
+    - '**/*.min.js'
+hfc_useref:
+  enable: false
 hfc_img:
   enable: false

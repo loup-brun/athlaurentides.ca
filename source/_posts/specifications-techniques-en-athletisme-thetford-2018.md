@@ -3,7 +3,8 @@ title: Spécifications techniques en athlétisme, Thetford 2018
 date: 2018-07-25 15:00:00
 author: Jacques Chapdelaine
 banner: cartables.jpg
-description: Participants et épreueves, performances d'inscription, procédure de qualification à partir de rondes préliminaires et réglementation spécifique.
+description: >
+  Participants et épreueves, performances d'inscription, procédure de qualification à partir de rondes préliminaires et réglementation spécifique.
 tags:
 - compétition
 - JDQ2018
