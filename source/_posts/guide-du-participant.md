@@ -15,4 +15,4 @@ Télécharge ton [**guide du participant**](GDP-Athletisme-SLJ-LAU.pdf) pour l'a
 
 Ce guide a été réalisé en collaboration avec les graphistes du comité organisateur des Jeux de Thetford qui l'ont conçu pour être facilement lisible sur cellulaire et tablette.
 
-<span class="fa fa-link"></span> [Guide du participant](GDP-Athletisme-SLJ-LAU.pdf)
+<span class="fa fa-paperclip"></span> [Guide du participant](GDP-Athletisme-SLJ-LAU.pdf)
