@@ -25,15 +25,24 @@ Tout ce que tu dois savoir avant de partir aux Jeux!
 
 ## Le départ
 
-[La date de départ](/calendrier-et-dates) est fixée au **vendredi 27 juillet à 12 h 00**. Merci d'arriver **60 minutes à l'avance** (_i.e._ dès 11 h 00) pour permettre à l'autobus de partir à l'heure!
+[La date de départ](/calendrier-et-dates) est fixée au **vendredi 27 juillet à 12 h 00** au complexe Val-d'Espoir à Mirabel :
+
+```
+17700 Rue Du Val-d'Espoir  
+Mirabel QC J7J 1V7
+```
+
+Merci d'arriver **60 minutes à l'avance** (_i.e._ dès 11 h 00) pour permettre à l'autobus de partir à l'heure!
 
 Les **perches** iront dans l'**autobus** (car n'entrent pas dans les camions-cube). Les autres pièces d'équipement (javelots, poids, etc.) iront dans les camions-cube.
 
 ## Le retour
 
-[Le retour](/calendrier-et-dates) est prévu le 31 juillet vers **20 h 20 (approx.)**, avec un départ de Thetford à 16 h.
+[Le retour](/calendrier-et-dates) est prévu le 31 juillet vers **20 h 20 (approx.)**, avec un départ de Thetford à 16 h, au même emplacement qu'au départ.
 
 ## Membres de la mission
+
+![Les entraîneurs en athlétisme aux Jeux du Québec, Thetford 2018](entraineurs-laurentides-athletisme.jpg)
 
 Le chef de la mission est **Dang Thanh Bui**.
 

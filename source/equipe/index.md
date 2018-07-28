@@ -2,8 +2,8 @@
 title: L’équipe
 ---
 
-**Louis-Olivier Brassard **
-_Répondant régional, entraîneur_  
+**Louis-Olivier Brassard**
+_Répondant régional, accompagnateur-coordonnateur_  
 +1 (450) 280-4077  
 louis@corsaire-chaparral.org
 

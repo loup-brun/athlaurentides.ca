@@ -43,7 +43,7 @@ Le lieu de rassemblement est le **Complexe Val-D'Espoir** à Mirabel :
 Mirabel QC J7J 1V7
 ```
 
-En cas de pluie, la cérémonie sera transférée à l'aréna adjacent.
+En cas de pluie, la cérémonie sera transférée à l'aréna adjacent. **Mise à jour** : la cérémonie a été relocalisée à l'intérieur et se tiendra au **Centre Mario-Gosselin**.
 
 ## La cérémonie d'ouverture
 

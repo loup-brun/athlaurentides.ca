@@ -12,4 +12,6 @@ tags:
 
 C'est fait! Vous pouvez maintenant consulter la [composition finale](/assets/athlaurentides-selection-finale.pdf) _(re-mise à jour le 17 juillet 2018)_ de l'équipe des Laurentides en athlétisme à la [53<sup>e</sup> finale provinciale](https://thetford2018.jeuxduquebec.com/) des [Jeux du Québec](http://jeuxduquebec.com/), Thetford 2018.
 
+Notez que les épreuves de relais seront confirmées **sur place**.
+
 Bons Jeux! #GoLAU
