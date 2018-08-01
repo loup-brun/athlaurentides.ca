@@ -44,19 +44,19 @@ _Ève Finnerty, la première coureuse de l'équipe des Laurentides au relais 4x1
 
 Les spectateurs ont eu droit à une dernière ligne droite enlevante, avec seulement 3 centièmes séparant la 2e de la 3e position. Les vainqueurs, Rive-Sud, ont pour leur part enregistré un nouveau record des Jeux (48,03).
 
-On notera que l'équipe des Laurentides n'était composée que d'athlètes de **catégorie cadettes** (14-15 ans), surclassées dans la catégorie juvénile (16-17 ans), désormais l'unique catégorie de la compétition.
+On notera que l'équipe des Laurentides n'était composée que d'athlètes de **catégorie cadette** (14-15 ans), surclassées dans la catégorie juvénile (16-17 ans), désormais l'unique catégorie de la compétition.
 
 ## 4x100 mètres masculin
 
 ![Le 4x100 mètres masculin. De gauche à droite : Samuel Musto, Maxim Bélisle, William Blanchet-Martineau et Carl Picard (Photo : Louis-Olivier Brassard)](4x100-laurentides.jpg)
+
+_Le 4x100 mètres masculin. De gauche à droite : Samuel Musto, Maxim Bélisle, William Blanchet-Martineau et Carl Picard. (Photo : Louis-Olivier Brassard)_
 
 L'issue du relais masculin est étonnamment similaire à celui des filles, alors que les Laurentides se présentaient à la finale avec le 3e meilleur chrono en ronde de qualification.
 
 Le résultat final n'a pas été bien différent.
 
 Des échanges bien rodés ont permis aux laurentiens de passer sous la barre des 45 secondes et d'empocher eux aussi la médaille de bronze en **44,93 secondes**.
-
-_Le 4x100 mètres masculin. De gauche à droite : Samuel Musto, Maxim Bélisle, William Blanchet-Martineau et Carl Picard. (Photo : Louis-Olivier Brassard)_
 
 ## 4x400 mètres féminin
 
