@@ -12,7 +12,7 @@ La troisième journée s'est avérée riche en performances, avec une médaille 
 
 ## Félix Nadeau surprend à la marche
 
-![Félix Nadeau lors du 3000 mètres marche. (Photo : Louis-Olivier Brassard)](felix-nadeau-3000-marche.jpg)
+{% asset_img felix-nadeau-3000-marche.jpg "Félix Nadeau lors du 3000 mètres marche. (Photo : Louis-Olivier Brassard)" %}
 
 _Félix Nadeau lors du 3000 mètres marche. (Photo : Louis-Olivier Brassard)_
 
@@ -22,7 +22,7 @@ Le Blainvillois **Félix Nadeau** a créé la surprise et l'émoi en remportant 
 
 Occupant le 4e rang après les préliminaires, **Anne-Marie Gagnon** a amélioré sa marque en finale (33,12 mètres), mais cela n'a pas été suffisant pour accéder au podium.
 
-![Anne-Marie Gagnon en action lors de la finale du lancer du disque. (Photo : Louis-Olivier Brassard)](anne-marie-gagnon-disque.jpg)
+{% asset_img anne-marie-gagnon-disque.jpg "Anne-Marie Gagnon en action lors de la finale du lancer du disque. (Photo : Louis-Olivier Brassard)" %}
 
 _Anne-Marie Gagnon en action lors de la finale du lancer du disque. (Photo : Louis-Olivier Brassard)_
 
@@ -32,7 +32,7 @@ Les deux équipes de **relais 4x100 mètres** (féminine et masculine) se sont a
 
 Le quatuor féminin a dû composer avec l'absence de Julia Vallée, affectée d'une blessure à l'ischio lors du 100 mètres. Ève Finnerty, Mélissa Bitar, Lily-Rose Charles et Laurie-Ann Desormes ont néanmoins remporté la troisième section avec un chrono de 50,17 secondes.
 
-![Maxim Bélisle en action lors des rondes de qualification du relais 4x100 mètres. (Photo : Louis-Olivier Brassard)](maxim-belisle-relais.jpg)
+{% asset_img maxim-belisle-relais.jpg "Maxim Bélisle en action lors des rondes de qualification du relais 4x100 mètres. (Photo : Louis-Olivier Brassard)" %}
 
 _Maxim Bélisle en action lors des rondes de qualification du relais 4x100 mètres. (Photo : Louis-Olivier Brassard_
 

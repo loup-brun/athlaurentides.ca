@@ -12,7 +12,7 @@ Il n'y avait que quatre épreuves d'athlétisme au programme de la dernière jou
 
 C'était aussi le moment de souligner l'esprit sportif, un moment cher à l'équipe des Laurentides.
 
-![Une médaille de bronze pour les Laurentides aux Jeux du Québec 2018. (Photo : Louis-Olivier Brassard)](medaille-bronze-jdq2018.jpg)
+{% asset_img medaille-bronze-jdq2018.jpg "Une médaille de bronze pour les Laurentides aux Jeux du Québec 2018. (Photo : Louis-Olivier Brassard)" %}
 
 _Une médaille de bronze pour les Laurentides aux Jeux du Québec 2018. (Photo : Louis-Olivier Brassard)_
 
@@ -24,7 +24,7 @@ La participation des Laurentides était sans conteste d'une intensité soutenue,
 
 Une médaille toute spéciale a également été remise à un seul athlète, toutes régions confondues, pour son implication personnelle relativement à l'esprit sportif. Il s'agissait de nul autre qu'un athlète des Laurentides, **Thomas Laberge**.
 
-![Thomas Laberge pose en compagnie de l'équipe des Laurentides, récipiendaire de la mention d'honneur pour l'esprit sportif. (Photo : Louis-Olivier Brassard)](esprit-sportif-laurentides.jpg)
+{% asset_img esprit-sportif-laurentides.jpg "Thomas Laberge pose en compagnie de l'équipe des Laurentides, récipiendaire de la mention d'honneur pour l'esprit sportif. (Photo : Louis-Olivier Brassard)" %}
 
 _Thomas Laberge pose en compagnie de l'équipe des Laurentides, récipiendaire de la mention d'honneur pour l'esprit sportif. (Photo : Louis-Olivier Brassard)_
 
@@ -38,7 +38,7 @@ Il semblerait que cela ait porté fruit.
 
 Les échanges, exécutés à merveille, ont permis à l'équipe de raser plus d'une seconde sur leur temps de qualification (50,17 secondes). Néanmoins, les **48,96 secondes** qu'il aura fallu au quatuor pour boucler le tour de piste n'ont pu que leur assurer une nouvelle fois la 3e position, derrière les régions de Rive-Sud et de Laval.
 
-![Ève Finnerty, la première coureuse de l'équipe des Laurentides au relais 4x100 mètres (Photo : Louis-Olivier Brassard)](eve-finnerty-4x100.jpg)
+{% asset_img eve-finnerty-4x100.jpg "Ève Finnerty, la première coureuse de l'équipe des Laurentides au relais 4x100 mètres (Photo : Louis-Olivier Brassard)" %}
 
 _Ève Finnerty, la première coureuse de l'équipe des Laurentides au relais 4x100 mètres (Photo : Louis-Olivier Brassard)_
 
@@ -48,7 +48,7 @@ On notera que l'équipe des Laurentides n'était composée que d'athlètes de **
 
 ## 4x100 mètres masculin
 
-![Le 4x100 mètres masculin. De gauche à droite : Samuel Musto, Maxim Bélisle, William Blanchet-Martineau et Carl Picard (Photo : Louis-Olivier Brassard)](4x100-laurentides.jpg)
+{% asset_img 4x100-laurentides.jpg "Le 4x100 mètres masculin. De gauche à droite : Samuel Musto, Maxim Bélisle, William Blanchet-Martineau et Carl Picard (Photo : Louis-Olivier Brassard)" %}
 
 _Le 4x100 mètres masculin. De gauche à droite : Samuel Musto, Maxim Bélisle, William Blanchet-Martineau et Carl Picard. (Photo : Louis-Olivier Brassard)_
 
@@ -60,7 +60,7 @@ Des échanges bien rodés ont permis aux laurentiens de passer sous la barre des
 
 ## 4x400 mètres féminin
 
-![L'équipe de 4x400 mètres féminin des Laurentides. De gauche à droite : Florence Marenger, Sara-Maud Lapierre, Émilie Bigand et Antonia Juarez. (Photo : Louis-Olivier Brassard)](4x400-laurentides.jpg)
+{% asset_img 4x400-laurentides.jpg "L'équipe de 4x400 mètres féminin des Laurentides. De gauche à droite : Florence Marenger, Sara-Maud Lapierre, Émilie Bigand et Antonia Juarez. (Photo : Louis-Olivier Brassard)" %}
 
 _L'équipe de 4x400 mètres féminin des Laurentides. De gauche à droite : Florence Marenger, Sara-Maud Lapierre, Émilie Bigand et Antonia Juarez. (Photo : Louis-Olivier Brassard)_
 

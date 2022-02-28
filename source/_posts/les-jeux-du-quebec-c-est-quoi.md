@@ -27,7 +27,7 @@ Les Jeux en quelques [stats](https://thetford2018.jeuxduquebec.com/fichiersUploa
 
 Si tu pensais que l’athlétisme, c’était juste un sport individuel, eh bien détrompe-toi.
 
-![L'équipe des Laurentides en athlétisme aux Jeux du Québec de Montreal, 2016](equipe-laurentides-athletisme-mtl-2016.jpg)
+{% asset_img equipe-laurentides-athletisme-mtl-2016.jpg "L'équipe des Laurentides en athlétisme aux Jeux du Québec de Montreal, 2016" %}
 
 > Aux Jeux, l’important c'est de toujours donner son 110%, autant sur le terrain que dans les gradins.
 
@@ -67,7 +67,7 @@ Rappelle-toi que c’est _ton_ épreuve, _ton_ moment, _ton_ expérience. Arrêt
 
 ## Bien plus qu’une compétition
 
-![L'équipe des Laurentides en athlétisme aux Jeux du Québec de Montreal, 2016](jeux-du-quebec-drapeau-laurentides.jpg)
+{% asset_img jeux-du-quebec-drapeau-laurentides.jpg "L'équipe des Laurentides en athlétisme aux Jeux du Québec de Montreal, 2016" %}
 
 Les Jeux du Québec, c’est bien plus qu’une simple compétition : **c’est une grande fête**. Au-delà de la programmation sportive, c’est l’occasion de faire le tour du **village des athlètes**, de **rencontrer des jeunes venant des ~~quatre~~ dix-neuf coins du Québec** _(on ne le dira jamais assez, le Québec c’est grand en mautadine)_, et de participer à **une pléthore d’activités** (jeux, spectacles, danse et soirées thématiques).
 

@@ -12,7 +12,7 @@ tags:
 
 Tout ce que tu dois savoir avant de partir aux Jeux!
 
-![Sac à dos](sac-a-dos.jpg)
+{% asset_img sac-a-dos.jpg "Sac à dos" %}
 
 ## Infos générales
 
@@ -42,7 +42,7 @@ Les **perches** iront dans l'**autobus** (car n'entrent pas dans les camions-cub
 
 ## Membres de la mission
 
-![Les entraîneurs en athlétisme aux Jeux du Québec, Thetford 2018](entraineurs-laurentides-athletisme.jpg)
+{% asset_img entraineurs-laurentides-athletisme.jpg "Les entraîneurs en athlétisme aux Jeux du Québec, Thetford 2018" %}
 
 Le chef de la mission est **Dang Thanh Bui**.
 
@@ -67,7 +67,7 @@ Responsable régional : **Anh Dien Huynh**
 
 Les communications + faits saillants de la région sur seront diffusés sur [Facebook](https://www.facebook.com/jdq.lau) (et les exploits de l'athlétisme sur notre [page dédiée](https://www.facebook.com/athlaurentides)) ainsi que sur la plateforme [Instagram](https://instagram.com/jdqlaurentides) (sans oublier bien sûr le [compte](https://instagram.com/athlaurentides) consacré à l'athlétisme).
 
-![Téléphone médias sociaux](en-ligne.jpg)
+{% asset_img en-ligne.jpg "Téléphone médias sociaux" %}
 
 Il n'y aura pas de distribution de journal papier.
 
@@ -95,7 +95,7 @@ La carte d'accréditation est **obligatoire** pour accéder au site d'hébergeme
 
 De plus, **les repas non consommés sont facturés à la région**. Bref, tu manges ce que tu prends!
 
-![Bol de céréales](cereales.jpg)
+{% asset_img cereales.jpg "Bol de céréales" %}
 
 Les déjeuners et soupers se feront au **Cégep de Thetford**.
 
@@ -113,7 +113,7 @@ Tu dois prendre ta douche sur le site de compétition; tu dois donc apporter tou
 
 Tu pourras mettre tes effets mouillés dans ton sac à cordons de la région!
 
-![Serviettes](serviettes.jpg)
+{% asset_img serviettes.jpg "Serviettes" %}
 
 ## Cérémonies
 
@@ -125,6 +125,6 @@ Objectif de classement des Laurentides : **top 6**.
 
 Ce n'est qu'avec des vagues déferlantes d'encouragements et un esprit d'équipe débordant de bonne humeur que nous y parviendrons!
 
-![Piste d'athlétisme 6 corridors](6.jpg)
+{% asset_img 6.jpg "Piste d'athlétisme 6 corridors" %}
 
 #GoLAU <span class="emoji">❤️</span>

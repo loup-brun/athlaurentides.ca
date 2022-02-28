@@ -12,7 +12,7 @@ Après une première journée de compétition, les Laurentides se sont emparés 
 
 ## Samuel Musto : l'or, et... presque plus
 
-![Samuel Musto en action lors du saut à la perche lors des Jeux du Québec, Thetford 2018. (Photo : Louis-Olivier Brassard)](samuel-musto-perche.jpg)
+{% asset_img samuel-musto-perche.jpg "Samuel Musto en action lors du saut à la perche lors des Jeux du Québec, Thetford 2018. (Photo : Louis-Olivier Brassard" %}
 
 _Samuel Musto en action lors du saut à la perche lors des Jeux du Québec, Thetford 2018. (Photo : Louis-Olivier Brassard)_
 
@@ -30,7 +30,7 @@ S'étant qualifié d'un seul essai au saut en longueur, Samuel prendra part à l
 
 La tête d'affiche du 100 mètres chez les femmes, **Laurie-Ann Desormes**, disposait déjà d'un laisser-passer lui donnant accès à la 2e ronde. Elle a aisément remporté la vague en enregistrant le meilleur chrono de la compétition en 12,29 secondes. Laurie-Ann prendra part à la finale dimanche à 11 h 40.
 
-![Laurie-Ann Desormes lors du 100 mètres 2e ronde chez les femmes. (Photo : Louis-Olivier Brassard)](laurie-ann-desormes-100m-q.jpg)
+{% asset_img laurie-ann-desormes-100m-q.jpg "Laurie-Ann Desormes lors du 100 mètres 2e ronde chez les femmes. (Photo : Louis-Olivier Brassard" %}
 
 _Laurie-Ann Desormes lors du 100 mètres 2e ronde chez les femmes. (Photo : Louis-Olivier Brassard)_
 
@@ -41,7 +41,7 @@ Au lancer du **marteau**, l'athlète de Brownsburg-Chatham **Anne-Marie Gagnon**
 
 Anne-Marie s'est également qualifié d'un seul essai valide au lancer du poids avec la marque de 12,80 mètres, le deuxième meilleur lancer de la ronde de qualification.
 
-![Anne-Marie Gagnon en action lors du lancer du marteau féminin. (Photo : Louis-Olivier Brassard)](anne-marie-gagnon-marteau.jpg)
+{% asset_img anne-marie-gagnon-marteau.jpg "Anne-Marie Gagnon en action lors du lancer du marteau féminin. (Photo : Louis-Olivier Brassard" %}
 
 _Anne-Marie Gagnon en action lors du lancer du marteau féminin. (Photo : Louis-Olivier Brassard)_
 
@@ -49,7 +49,7 @@ _Anne-Marie Gagnon en action lors du lancer du marteau féminin. (Photo : Louis-
 
 Le duo **Mélissa Bitar** (Blainville) et **Ève Finnerty** (Blainville) ont entamé leur série de 7 épreuves combinées (_heptathlon_) réparties sur 2 journées de compétition. Après 4 épreuves, Mélissa occupe le 2e rang (!) de la compétition, alors qu'Ève détient le 6e meilleur pointage.
 
-![Mélissa Bitar au saut en hauteur, la 2e épreuve de l'heptathlon. (Photo : Louis-Olivier Brassard)](melissa-bitar-hauteur-heptathlon.jpg)
+{% asset_img melissa-bitar-hauteur-heptathlon.jpg "Mélissa Bitar au saut en hauteur, la 2e épreuve de l'heptathlon. (Photo : Louis-Olivier Brassard" %}
 
 _Mélissa Bitar au saut en hauteur, la 2e épreuve de l'heptathlon. (Photo : Louis-Olivier Brassard)_
 

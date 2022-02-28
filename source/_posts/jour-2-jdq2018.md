@@ -14,7 +14,7 @@ Au terme de cette journée, les Laurentides occupent le **5e rang** au pointage 
 
 ## Sara-Maud Lapierre : un 800 mètres impeccable
 
-![Sara-Maud Lapierre remporte le 800 mètres féminin. (Photo : Louis-Olivier Brassard)](sara-maud-lapierre-800m.jpg)
+{% asset_img sara-maud-lapierre-800m.jpg "Sara-Maud Lapierre remporte le 800 mètres féminin. (Photo : Louis-Olivier Brassard" %}
 
 _Sara-Maud Lapierre remporte le 800 mètres féminin. (Photo : Louis-Olivier Brassard)_
 
@@ -32,7 +32,7 @@ Après une journée de compétition, le duo **Mélissa Bitar** (Blainville) et *
 
 Mélissa a accumulé un total de 3498 points, tandis qu'Ève en a obtenu 3053. L'athlète de Rive-Sud, Chloé Royce, a quant à elle enregistré un nouveau record des Jeux avec exactement 5000 points.
 
-![Ève Finnerty en compagnie de sa partenaire de l'heptathlon Mélissa Bitar. (Photo : Louis-Olivier Brassrd)](eve-finnerty-melissa-bitar.jpg)
+{% asset_img eve-finnerty-melissa-bitar.jpg "Ève Finnerty en compagnie de sa partenaire de l'heptathlon Mélissa Bitar. (Photo : Louis-Olivier Brassrd" %}
 
 _Ève Finnerty en compagnie de sa partenaire de l'heptathlon Mélissa Bitar. (Photo : Louis-Olivier Brassrd)_
 
@@ -42,7 +42,7 @@ L'athlète ayant enregistré le meilleur chrono au **100 mètres** lors des pré
 
 Détenteuse d'un laisser passer au 200 mètres, Laurie-Ann prendra part à la seconde ronde lundi.
 
-![Laurie-Ann Desormes en action lors de la finale du 100 mètres féminin. (Photo : Louis-Olivier Brassard)](laurie-ann-desormes-100m.jpg)
+{% asset_img laurie-ann-desormes-100m.jpg "Laurie-Ann Desormes en action lors de la finale du 100 mètres féminin. (Photo : Louis-Olivier Brassard" %}
 
 _Laurie-Ann Desormes en action lors de la finale du 100 mètres féminin. (Photo : Louis-Olivier Brassard)_
 
@@ -52,7 +52,7 @@ Après une 6e place en finale du lancer du marteau lors du jour 1, Anne-Marie Ga
 
 Anne-Marie sera à surveiller en finale du lancer du disque lundi après-midi, comme elle a enregistré la 4e meilleure marque en ronde préliminaires.
 
-![Anne-Marie Gagnon en action lors du lancer du poids féminin. (Photo : Louis-Olivier Brassard)](anne-marie-gagnon.jpg)
+{% asset_img anne-marie-gagnon.jpg "Anne-Marie Gagnon en action lors du lancer du poids féminin. (Photo : Louis-Olivier Brassard" %}
 
 _Anne-Marie Gagnon en action lors du lancer du poids féminin. (Photo : Louis-Olivier Brassard)_
 

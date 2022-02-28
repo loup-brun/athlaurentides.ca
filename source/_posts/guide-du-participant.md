@@ -11,7 +11,7 @@ tags:
 
 Télécharge ton [**guide du participant**](GDP-Athletisme-SLJ-LAU.pdf) pour l'athlétisme en format PDF! Il te sera fort utile tout au long des Jeux!
 
-![Guide du participant sur téléphone](photo-guide-participant.jpg)
+{% asset_img photo-guide-participant.jpg "Guide du participant sur téléphone"
 
 Ce guide a été réalisé en collaboration avec les graphistes du comité organisateur des Jeux de Thetford qui l'ont conçu pour être facilement lisible sur cellulaire et tablette.
 

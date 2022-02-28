@@ -12,7 +12,7 @@ tags:
 
 _Cet article provient d'une communication rédigée par Jacques Chapdelaine, directeur technique de la [Fédération québécoise d'athlétisme](http://athletisme-quebec.ca/)._
 
-![Cartables](cartables.jpg)
+{% asset_img cartables.jpg "Cartables" %}
 
 ## Performances d'inscription
 
