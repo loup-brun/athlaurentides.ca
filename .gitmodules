@@ -1,3 +1,6 @@
 [submodule "themes/cactus"]
 	path = themes/cactus
 	url = git@github.com:loup-brun/hexo-theme-cactus.git
+[submodule "themes/acorn"]
+	path = themes/acorn
+	url = git@github.com:loup-brun/hexo-theme-acorn.git
